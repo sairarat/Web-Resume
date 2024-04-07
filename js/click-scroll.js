@@ -1,7 +1,3 @@
-//jquery-click-scroll
-//by syamsul'isul' Arifin
-
-// Remove section 3 from the array
 var sectionArray = [1, 2, 3];
 
 $.each(sectionArray, function(index, value){
